@@ -1,23 +1,26 @@
-# Episode 001 : Mengenal React, ReactDOM, dan JSX
+# Episode 001 : Continous Delivery @ Sorabel
 
 - Hosted by: @abudawud
 - Speakers:
-  - @dwikiprayogo3
-- Kulgram date: 09 Feb 2019
+  - @dimasaryo
+- Webinar date: 09 Feb 2019
 - Venue: [JemberDev Conference](https://www.gotomeet.me/DjemberDev)
 
 ## Agenda
 
-- TODO
+- Welcome to JemberDev
+- Talk #1 Dimas Aryo (Platform Engineer & DevOps @ [Sorabel.com](https://www.sorabel.com/))
+- Question & Answer
+- Documentary
 
-## Talks
+## Talk
 
-- TODO
+- Dimas Aryo [Video](https://youtu.be/Bf1zmYx_5eE)
 
 ## Show Notes
 
-- TODO
+- Continous Delivery @ Sorabel [Slide](https://docs.google.com/presentation/d/1h-Kc7ZAwiOFo1099abMm7cy-GotETAzM8eNA7MIrORM/edit?usp=sharing)
 
 ## Reference Links
 
-- TODO
+- [Webinar Registration Form](https://forms.gle/gypq1Q5S3BVaLnnz5)
